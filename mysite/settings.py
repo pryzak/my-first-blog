@@ -25,7 +25,9 @@ SECRET_KEY = 'b)wr(l*q^d0dkaol2t$y-=v9$yc(opg6bfjzvs-bskd6+50s4@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'pryzak.pythonanywhere.com',
+]
 
 
 # Application definition
